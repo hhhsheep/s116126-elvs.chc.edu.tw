@@ -2,13 +2,23 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
-  <title>我的作業首頁</title>
+  <title>hhhsheep 的首頁</title>
 </head>
 <body>
-  <h1>我的作業清單</h1>
+  <h1>歡迎來到 hhhsheep 的個人首頁</h1>
+
+  <h2>作業清單</h2>
   <ul>
-    <li><a href="https://github.com/hhhsheep/wo">wo 作業</a></li>
-    <li><a href="https://github.com/hhhsheep/w1">w1 作業</a></li>
+    <li><a href="https://github.com/hhhsheep/wo" target="_blank">wo 作業儲存庫</a></li>
+    <li><a href="https://github.com/hhhsheep/w1" target="_blank">w1 作業儲存庫</a></li>
   </ul>
+
+  <h2>學習歷程檔案</h2>
+  <p>
+    <a href="https://www.canva.com/design/DAGk2Goy7tY/fGYwRjEeWyRgHqqRCsJgbA/edit?utm_content=DAGk2Goy7tY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+      點我查看學習歷程檔案（Canva）
+    </a>
+  </p>
 </body>
 </html>
+
